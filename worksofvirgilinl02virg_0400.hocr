@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./worksofvirgilinl02virg_0400.png"; bbox 0 0 1685 3093; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 392 180 1300 366">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 392 180 1300 366">
+     <span class='ocr_line' id='line_1_1' title="bbox 607 180 1087 225; baseline 0.006 -10"><span class='ocrx_word' id='word_1_1' title='bbox 607 180 818 225; x_wconf 60' lang='lat' dir='ltr'>universim</span> <span class='ocrx_word' id='word_1_2' title='bbox 829 181 871 217; x_wconf 70' lang='lat' dir='ltr'><strong>of</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 883 181 1087 218; x_wconf 62' lang='lat' dir='ltr'><strong>cantorum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 392 228 1300 268; baseline 0.006 -4"><span class='ocrx_word' id='word_1_4' title='bbox 392 228 639 264; x_wconf 69' lang='lat' dir='ltr'><strong>souwenu</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 654 229 886 266; x_wconf 74' lang='grc' dir='ltr'><strong>ΒΕΘΙΟΝΑι</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 900 230 1093 267; x_wconf 57' lang='lat' dir='ltr'><strong>uenam!</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1108 231 1300 268; x_wconf 74' lang='grc' dir='ltr'>ΡΑΟΙιΙΤΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 499 278 1195 327; baseline 0.006 -14"><span class='ocrx_word' id='word_1_8' title='bbox 499 278 639 314; x_wconf 79' lang='lat' dir='ltr'><strong>Return</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 652 279 731 314; x_wconf 76' lang='lat' dir='ltr'><strong>this</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 745 280 912 316; x_wconf 75' lang='lat' dir='ltr'><strong>material</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 925 283 967 316; x_wconf 74' lang='lat' dir='ltr'><strong>to</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 979 281 1045 316; x_wconf 77' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1060 281 1195 327; x_wconf 77' lang='lat' dir='ltr'><strong>library</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 554 329 1152 366; baseline 0.005 -3"><span class='ocrx_word' id='word_1_14' title='bbox 554 329 651 364; x_wconf 76' lang='lat' dir='ltr'>from</span> <span class='ocrx_word' id='word_1_15' title='bbox 665 329 789 364; x_wconf 79' lang='lat' dir='ltr'><strong>which</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 805 330 829 364; x_wconf 79' lang='lat' dir='ltr'><strong>it</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 842 338 925 366; x_wconf 80' lang='lat' dir='ltr'><strong>was</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 940 331 1152 366; x_wconf 77' lang='lat' dir='ltr'><strong>horrowed.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1685 3093">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1685 3093">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1685 3093; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1685 3093; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
